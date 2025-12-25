@@ -1,0 +1,3 @@
+Bad with frontend design and didn't implement anything. 
+Import axios to all frontend files and google how to axios is used to send and frontend inputs to backend.
+vvv important, remember to use async and await. Good luck nishat
